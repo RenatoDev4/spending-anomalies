@@ -8,13 +8,9 @@ The dataset used in this study contains detailed information on expenses incurre
 *This project was created for student purposes only.
 
 
-Project Organization
-------------
+
 <!DOCTYPE html>
 <html>
-<head>
-    <title>Project Organization</title>
-</head>
 <body>
     <h1>Project Organization</h1>
     <p>This GitHub repository is structured to provide a clear and organized approach to managing a data science / machine learning project. Below is a description of the directory tree:</p>
